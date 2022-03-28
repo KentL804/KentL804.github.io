@@ -1,4 +1,4 @@
 ---
 Links to files
 ---
-[Time Series Decomp](/timeseries/index.md)
+[Time Series Decomp](/Time Series/index.md)
