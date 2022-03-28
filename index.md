@@ -1,4 +1,4 @@
 ---
 Project List
 ---
-[-Time Series Analysis](/timeseries/index.md)
+[-Time Series Analysis](/TimeSeries/index.md)
